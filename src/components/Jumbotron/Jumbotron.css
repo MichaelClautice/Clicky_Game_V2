@@ -1,0 +1,8 @@
+
+/* css for this component-element */
+
+.jumbotron {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/clicky/images//background.jpg");
+  background-size: cover;
+  background-position: bottom;
+}

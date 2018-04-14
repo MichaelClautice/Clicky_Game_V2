@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/Clicky_Game_V2/images/angelfish.jpg"
+  },
+  {
+    "id": 2,
+    "image": "/Clicky_Game_V2/images/barracuda.jpeg"
+  },
+  {
+    "id": 3,
+    "image": "/Clicky_Game_V2/images/butterfly.jpg"
+  },
+  {
+    "id": 4,
+    "image": "/Clicky_Game_V2/public/images/chromis.jpg"
+  },
+  {
+    "id": 5,
+    "image": "/Clicky_Game_V2/images/clownfish.jpg"
+  },
+  {
+    "id": 6,
+    "image": "/Clicky_Game_V2/images/creolewrasse.jpg"
+  },
+  {
+    "id": 7,
+    "image": "/Clicky_Game_V2/images/damselfish.jpg"
+  },
+  {
+    "id": 8,
+    "image": "/Clicky_Game_V2/images/parrotfish.jpg"
+  },
+  {
+    "id": 9,
+    "image": "/Clicky_Game_V2/images/rockbeauty.jpg"
+  },
+  {
+    "id": 10,
+    "image": "/Clicky_Game_V2/images/sergeantmajor.jpg"
+  },
+  {
+    "id": 11,
+    "image": "/Clicky_Game_V2/images/grunt.jpg"
+  },
+  {
+    "id": 12,
+    "image": "/Clicky_Game_V2/images/tang.jpg"
+  }
+]

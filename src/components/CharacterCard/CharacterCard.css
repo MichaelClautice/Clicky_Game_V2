@@ -1,0 +1,11 @@
+
+/* card shadows for 3d effect */
+.card {
+  box-shadow: 0px 3px 6px #999;
+  transition: transform .2s; /* Animation */
+}
+/* hover styles */
+.card:hover {
+  box-shadow: 0px 6px 16px #999;
+  transform: scale(1.1);
+}
