@@ -1,2 +1,2 @@
 # Clicky_Game_V2
-Homework Week 20 - React Homework - Version 2
+Homework Week 20 - React Homework
