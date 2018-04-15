@@ -17,7 +17,7 @@ const Jumbotron = (props) => (
 
   <div className="jumbotron jumbotron-fluid bg-cover text-white text-center">
 
-    <h1 className="display-4 font-weight-bold">Mike's Clicky Game!</h1>
+    <h1 className="display-4 font-weight-bold">Mike's Clicky Game!!</h1>
 
     <p className="lead font-weight-bold">Click an image to earn points, but don't click the same image two times!</p>
     <p>A Michael Clautice Project</p>
